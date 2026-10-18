@@ -1,0 +1,17 @@
+{
+  "A": {
+    "text": "Report job-3c7ccd6b: café\nReady ✓",
+    "complete": true,
+    "error": null
+  },
+  "B": {
+    "text": "Partial job-3c7ccd6b",
+    "complete": false,
+    "error": null
+  },
+  "C": {
+    "text": "Draft job-3c7ccd6b",
+    "complete": false,
+    "error": "model unloaded"
+  }
+}
